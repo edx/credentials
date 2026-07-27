@@ -294,7 +294,7 @@ edx-ccx-keys==2.0.2
     #   -r requirements/dev.txt
     #   -r requirements/production.txt
     #   openedx-events
-edx-credentials-themes @ git+https://github.com/openedx/credentials-themes.git@0.5.6
+edx-credentials-themes @ git+https://github.com/openedx/credentials-themes.git@0.5.9
     # via
     #   -r requirements/dev.txt
     #   -r requirements/production.txt
