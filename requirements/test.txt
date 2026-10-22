@@ -36,7 +36,7 @@ cachecontrol==0.14.4
     #   firebase-admin
 cachetools==7.0.0
     # via tox
-certifi==2026.1.4
+certifi==2026.10.19
     # via
     #   -r requirements/base.txt
     #   httpcore
