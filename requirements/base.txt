@@ -20,7 +20,7 @@ bleach==6.3.0
     # via -r requirements/base.in
 cachecontrol==0.14.4
     # via firebase-admin
-certifi==2026.1.4
+certifi==2026.10.19
     # via
     #   httpcore
     #   httpx

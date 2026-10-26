@@ -34,7 +34,7 @@ cachecontrol==0.14.4
     # via
     #   -r requirements/base.txt
     #   firebase-admin
-certifi==2026.1.4
+certifi==2026.10.19
     # via
     #   -r requirements/base.txt
     #   httpcore
