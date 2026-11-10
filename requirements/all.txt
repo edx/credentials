@@ -285,7 +285,7 @@ edx-ace==1.15.0
     # via
     #   -r requirements/dev.txt
     #   -r requirements/production.txt
-edx-auth-backends==4.6.2
+edx-auth-backends==5.1.1
     # via
     #   -r requirements/dev.txt
     #   -r requirements/production.txt

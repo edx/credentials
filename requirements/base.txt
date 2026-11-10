@@ -141,7 +141,7 @@ drf-yasg==1.21.14
     # via -r requirements/base.in
 edx-ace==1.15.0
     # via -r requirements/base.in
-edx-auth-backends==4.6.2
+edx-auth-backends==5.1.1
     # via -r requirements/base.in
 edx-ccx-keys==2.0.2
     # via openedx-events
